@@ -142,6 +142,12 @@ output___
 
 
 
+![searcxh](https://github.com/thechamp710/arcitech.ai/assets/135342237/372ad17e-42b5-48f5-9eff-143e3ed5c3e5)
+---------authorized user search word,text from all blog 
+
+
+
+
 
 
 
