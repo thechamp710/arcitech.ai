@@ -23,7 +23,24 @@ provided assignment instructions.
 Installation
 @open cmd or terminalpip install django, 
 pip install djangorestframework and useful libraries installing etc.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 CMS Project Structure:
+
+![structure of cms](https://github.com/thechamp710/arcitech.ai/assets/135342237/ecdd6411-3b52-444c-8b5e-8a9e3e695d09)
+
+
+
+
+
+
+
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Deployment:-
 For testing of code I did use postman.
 @After completion of my project simply I go to in terminal and give command :-
