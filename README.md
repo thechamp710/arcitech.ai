@@ -162,6 +162,13 @@ output___
 
 
 
+![admin author](https://github.com/thechamp710/arcitech.ai/assets/135342237/eb27c37e-9a87-4426-9935-686bccd43c34)
+---------all permissions of admin
+
+
+
+
+
 
 
 
