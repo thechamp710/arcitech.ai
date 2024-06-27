@@ -19,7 +19,7 @@ class BaseModel(models.Model):
 
 class Blog(models.Model):
     user= models.ForeignKey(User, on_delete=models.CASCADE, related_name="blogs")
-    title= models.CharField(max_length=255)
+    title= models.CharField(max_length=500)
     blog_text= models.TextField()
 
     def __str__(self) -> str:
