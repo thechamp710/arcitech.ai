@@ -121,6 +121,14 @@ output___
 
 
 
+![addblog](https://github.com/thechamp710/arcitech.ai/assets/135342237/7169d178-56f3-489f-bde9-add4eb2aeed1)---create blog from authorized user
+
+
+
+
+
+
+
 
 
 
