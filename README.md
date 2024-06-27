@@ -130,6 +130,12 @@ output___
 
 
 
+![update](https://github.com/thechamp710/arcitech.ai/assets/135342237/0cd66d06-9db8-4336-81b9-80c5449b917a)
+ -------- authorized user only upadte post created by him
+
+
+
+
 
 
 
