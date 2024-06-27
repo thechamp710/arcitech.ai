@@ -136,6 +136,13 @@ output___
 
 
 
+ ![delete](https://github.com/thechamp710/arcitech.ai/assets/135342237/5fdbb215-b9d2-4074-a35b-f98ac4913e23)
+-------authorized user only delete post created by him
+
+
+
+
+
 
 
 
