@@ -7,7 +7,7 @@ Project- Content management system-Api in Django restframework
 5)user should search content by matching term in title, body
 6) user can see all blogs created from other user .
 
-
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Acknowledgements
 1)External libraries and Tools and Resources:
@@ -18,7 +18,7 @@ syntax etc.
 @Arcitech.AI assignment- using this assignment instruction and try develop project according this 
 provided assignment instructions.
 
-
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 Installation
 @open cmd or terminalpip install django, 
@@ -29,8 +29,7 @@ For testing of code I did use postman.
 @After completion of my project simply I go to in terminal and give command :-
 python.manage.py runserver
 @test code on postman:-
----POST http://127.0.0.1:8000/api/account/register/ -------for registeration of user 
-![registration](https://github.com/thechamp710/arcitech.ai/assets/135342237/2d4c2a95-d61d-4f2c-9a47-308f4481373a)
+---POST http://127.0.0.1:8000/api/account/register/ -------for registeration of user
 
 
 
@@ -104,6 +103,23 @@ Username- admin
 Password- 123
 
 Admin handle all blogs created by user, admin can update, post, delete, create, see all blogs
+
+
+
+
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+output___
+![registration](https://github.com/thechamp710/arcitech.ai/assets/135342237/2d4c2a95-d61d-4f2c-9a47-308f4481373a)- Registeration user
+
+
+
+
+
+
+
 
 
 introduction (myself)
