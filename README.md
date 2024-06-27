@@ -30,6 +30,8 @@ For testing of code I did use postman.
 python.manage.py runserver
 @test code on postman:-
 ---POST http://127.0.0.1:8000/api/account/register/ -------for registeration of user 
+![registration](https://github.com/thechamp710/arcitech.ai/assets/135342237/2d4c2a95-d61d-4f2c-9a47-308f4481373a)
+
 
 
 
