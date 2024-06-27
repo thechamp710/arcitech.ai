@@ -124,6 +124,14 @@ output___
 ![addblog](https://github.com/thechamp710/arcitech.ai/assets/135342237/7169d178-56f3-489f-bde9-add4eb2aeed1)---create blog from authorized user
 
 
+![viewallpostcreated by him](https://github.com/thechamp710/arcitech.ai/assets/135342237/9efdf3c2-2b3c-4343-abf8-c1e603cbfb3c) 
+----user view all post created by him
+
+
+
+
+
+
 
 
 
